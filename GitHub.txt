@@ -1,4 +1,4 @@
-SCENARIO BASED QUESTIONS ASKED IN AN INTERVIEW -
+ENARIO BASED QUESTIONS ASKED IN AN INTERVIEW -
 
 CASE STUDY 1 -
 
@@ -7,18 +7,25 @@ A student team is asked to complete a mini project using GitHub, but they are re
 Midway through the project, the team notices that changes from different branches could easily conflict and that poor documentation could slow down collaboration.
 
 As a student, analyze how GitHub’s features help prevent confusion and manage teamwork in this situation. Critically evaluate which GitHub features are most important for beginners and justify your reasoning with examples from the case.
-
+ANSWER :- 
+GitHub helps us stay organized by using branches so everyone can work separately without disturbing the main code. Issues make it easy to report problems like unclear documentation, and pull requests allow reviews before merging. For beginners, branches, issues, and Pull Requests are the most useful because they directly prevent confusion and improve teamwork.
+Example : When documentation was unclear, raising an issue ensured visibility. When branches conflicted, PR reviews helped detect and resolve problems before merging.
 
 CASE STUDY 2 -
 
 Compare GitHub with other DevOps and project management tools. Explain how these tools go beyond GitHub’s core features to support large-scale software development.
-
+ANSWER :- 
+GitHub is mainly for version control and collaboration, but tools like  Jira, or Azure DevOps go further. They add CI/CD pipelines, sprint planning, and project tracking, which are important for large-scale projects. These tools combine coding with management and automation, making them more complete for enterprise use.
 
 CASE STUDY 3 -
 
 What are features of GITHUB - which you liked more.
 
-
+ANSWER :- 
+The features I like most are pull requests with code review, issues for tracking tasks, and GitHub Actions for automation. They make teamwork smoother and reduce mistakes.
 CASE STUDY 4 - 
 
 If you know GitHub well, what types of job roles or interviews do you think you are prepared for, and why? ---- List the Job Roles 
+
+ANSWER :- 
+Knowing GitHub prepares me for roles like software developer, frontend/backend engineer, DevOps engineer, QA tester, and even project manager. These jobs all need version control, collaboration, and workflow management skills, which GitHub teaches well.
