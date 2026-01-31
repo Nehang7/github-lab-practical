@@ -1,0 +1,3 @@
+GitHub collaboration allows multiple developers to work together on the same project.
+They can review code, suggest changes through pull requests, and track issues to improve teamwork.
+This makes building software faster, more organized, and community-driven.
